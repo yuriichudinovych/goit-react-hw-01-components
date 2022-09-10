@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yuriichudinovych/goit-react-hw-01-components/static/css/main.5e6b93b6.css",
+    "main.js": "/yuriichudinovych/goit-react-hw-01-components/static/js/main.51a7b447.js",
+    "static/js/496.68f7b4a0.chunk.js": "/yuriichudinovych/goit-react-hw-01-components/static/js/496.68f7b4a0.chunk.js",
+    "index.html": "/yuriichudinovych/goit-react-hw-01-components/index.html",
+    "main.5e6b93b6.css.map": "/yuriichudinovych/goit-react-hw-01-components/static/css/main.5e6b93b6.css.map",
+    "main.51a7b447.js.map": "/yuriichudinovych/goit-react-hw-01-components/static/js/main.51a7b447.js.map",
+    "496.68f7b4a0.chunk.js.map": "/yuriichudinovych/goit-react-hw-01-components/static/js/496.68f7b4a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e6b93b6.css",
+    "static/js/main.51a7b447.js"
+  ]
+}
